@@ -5,7 +5,7 @@ import { ArrowDown, Github, Linkedin, Mail } from 'lucide-react';
 const Hero = () => {
   return (
     <VantaBackground>
-      <section id="home" className="flex items-center justify-center min-h-screen text-center px-4">
+      <section id="home" className="flex items-center justify-center min-h-screen text-center px-4 mt-16">
         <div className="max-w-5xl mx-auto relative">
           <h1 className="text-4xl md:text-6xl font-extrabold text-white leading-tight mb-6">
             Hi, I'm{' '}
