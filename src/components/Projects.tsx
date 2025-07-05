@@ -27,7 +27,7 @@ const Projects = () => {
     {
       title: 'PLANETCODE -Edtech Platform ',
       description: 'An interactive EdTech platform built with modern web technologies. PlanetCode offers coding tutorials, quizzes, and progress tracking for learners. Features include user authentication, course modules, leaderboard, and responsive UI.',
-      image: 'src/assests/Planetcode.png',
+      image: '/assests/Planetcode.png',
       technologies: ['React', 'Node.js', 'MongoDB', 'RESTful API', 'JWT','Websocket','Tailwindcss','Razorpay'],
       githubUrl: 'https://github.com/ShivamR01/PlanetCode-Edtech-project',
       liveUrl: 'https://planetcode.vercel.app/',
@@ -36,7 +36,7 @@ const Projects = () => {
     {
       title: 'REALCODER - Blogging',
       description: 'A full-featured blogging application built for developers. RealCoder allows users to create, edit, and share technical blogs. Features include user authentication, rich text editor, post categories, comments, and a responsive design.',
-      image: 'src/assests/Realcoder.png',
+      image: '/assests/Realcoder.png',
       technologies: ['Python', 'Flask', 'Bootstrap', 'API', 'SQLite'],
       githubUrl: 'https://github.com/ShivamR01/realcoder',
       liveUrl: 'https://therealcoders.pythonanywhere.com/',
@@ -45,7 +45,7 @@ const Projects = () => {
     {
       title: 'WEBKRAFTERY',
       description: 'A creative portfolio and web services platform showcasing modern web design and development projects. WebKraftery features smooth animations, project showcases, contact form integration, and a responsive, visually engaging UI.',
-      image: 'src/assests/Webkraftery.png',
+      image: '/assests/Webkraftery.png',
       technologies: ['React', 'Node.js', 'Express.js', 'Websocket', 'Vanta.js','tailwindcss'],
       githubUrl: 'https://github.com/WebKraftry/WebKraftry',
       liveUrl: 'https://webkraftery.vercel.app/',
@@ -54,7 +54,7 @@ const Projects = () => {
     {
       title: 'Live Cricket Score Tracker',
       description: 'A real-time cricket score tracking application that provides live match updates, player stats, and scorecards. Features include match filtering, team details, responsive UI, and live data integration for an engaging user experience.',
-      image: 'src/assests/LiveCricket.png',
+      image: '/assests/LiveCricket.png',
       technologies: ['React', 'Node.Js', 'Typescript', 'Cric API','tailwindcss'],
       githubUrl: 'https://github.com/ShivamR01/cricket-score-ticker-react',
       liveUrl: '#',
