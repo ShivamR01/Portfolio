@@ -51,7 +51,7 @@ const About = () => {
               <div className="relative">
                 <div className="w-full max-w-md mx-auto aspect-square rounded-2xl bg-[#161b22] p-8 shadow-2xl">
                   <img
-                    src="@/assests/photo.jpg"
+                    src="/assests/photo.jpg"
                     alt="Shivam Kumar"
                     className="w-full h-full object-cover rounded-xl"
                   />
