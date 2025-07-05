@@ -46,7 +46,7 @@ const VantaBackground: React.FC<PropsWithChildren> = ({ children }) => {
             minHeight: 200.0,
             minWidth: 200.0,
             scale: 1.0,
-            scaleMobile: 5.0,
+            scaleMobile: 3.0,
             gyroControls: false,
           });
           setVantaEffect(effect);
